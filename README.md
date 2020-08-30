@@ -2,7 +2,7 @@
 
 ## ✏️ About me 
 ## I live in the state of São Paulo - Brazil and I am in the second year as a computer technician at Colégio Univap - CTI 👩🏻‍💻. 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-olopes/)](https://www.linkedin.com/in/lucas-olopes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-olopes/)](https://www.linkedin.com/in/lucas-olopes/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sr.olopesl/)](https://www.instagram.com/sr.olopesl/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olopes.lucas567@gmail.com)](mailto:olopes.lucas567@gmail.com)
  
