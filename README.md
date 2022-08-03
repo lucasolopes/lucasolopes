@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ls_olopes/)](https://www.instagram.com/ls_olopes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olopes.lucas567@gmail.com)](mailto:olopes.lucas567@gmail.com)
  
-## 📚 I'm currently learning ... 
+## 📚 Eu estou estudando ... 
 ![C Sharp Badge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white/)
 ![HTML Bagde](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white/)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black/)
