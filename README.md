@@ -78,11 +78,12 @@
 
 ## 📊 Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucasolopes&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" align="center" /></div>
-<br />
+
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasolopes&theme=dracula&hide_border=true" align="center"/></div>
 <br />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolopes&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="center"/></div>
+<br />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucasolopes&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" align="center" /></div>
 
 <br/>
 
